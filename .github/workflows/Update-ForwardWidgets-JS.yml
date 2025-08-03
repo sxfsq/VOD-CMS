@@ -3,9 +3,9 @@
 name: Update ForwardWidgets JS Files
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 */2 * * *"
+ #  workflow_dispatch:
+ #  schedule:
+  #   - cron: "0 */2 * * *"
 
 permissions:
   actions: write
